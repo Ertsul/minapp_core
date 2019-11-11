@@ -1,0 +1,13 @@
+- *wxss*
+  - 支持 *less*
+  - 支持 *autoprefixer*
+  - *dev*：不压缩
+  - *prod*：压缩
+- *js*
+  - 支持 *async/await*
+  - *dev*：不压缩
+  - *prod*：压缩
+- *wxml* / *json*
+  - *prod*：压缩
+  - *dev*：不压缩
+- 图片压缩
